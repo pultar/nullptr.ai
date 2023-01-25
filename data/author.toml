@@ -1,0 +1,11 @@
+[default]
+name = "Felix"
+uri = "https://nullptr.ai/"
+email = "self@nullptr.ai"
+image = "image/brand/logo.svg"
+
+[felix]
+name = "Felix"
+uri = "https://nullptr.ai/"
+email = "self@nullptr.ai"
+image = "image/brand/logo.svg"
