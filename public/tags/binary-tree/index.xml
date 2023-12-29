@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>binary tree on nullptr.ai</title>
+    <link>https://nullptr.ai/tags/binary-tree/</link>
+    <description>Recent content in binary tree on nullptr.ai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Jan 2023 13:00:00 +0000</lastBuildDate>
+    <atom:link href="https://nullptr.ai/tags/binary-tree/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>104. Maximum Depth of Binary Tree</title>
+      <link>https://nullptr.ai/blog/104-maximum-depth-of-binary-tree/</link>
+      <pubDate>Mon, 23 Jan 2023 13:00:00 +0000</pubDate>
+      <guid>https://nullptr.ai/blog/104-maximum-depth-of-binary-tree/</guid>
+      <description>The Problem Statement The problem is taken from LeetCode.&#xA;First Solution: Recursive Depth-First Search I found it most straightforward to run a recursive depth-first search (DFS) on the tree. The intuition is that the maximum depth of any node is simply the maximum depth of either the left or the right half of the tree + 1.</description>
+    </item>
+    <item>
+      <title>543. Diameter of Binary Tree</title>
+      <link>https://nullptr.ai/blog/543-diameter-of-binary-tree/</link>
+      <pubDate>Mon, 23 Jan 2023 09:00:00 +0000</pubDate>
+      <guid>https://nullptr.ai/blog/543-diameter-of-binary-tree/</guid>
+      <description>The problem statement The problem is taken from LeetCode.&#xA;The solution We can write a helper function int dfs(TreeNode* root, int&amp;amp; max) that recursively computes the height of all possible subtrees. This algorithm is called depth-first search and quite common in tree and graph problems.</description>
+    </item>
+  </channel>
+</rss>

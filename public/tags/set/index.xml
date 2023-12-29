@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>set on nullptr.ai</title>
+    <link>https://nullptr.ai/tags/set/</link>
+    <description>Recent content in set on nullptr.ai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Jan 2023 20:59:00 +0000</lastBuildDate>
+    <atom:link href="https://nullptr.ai/tags/set/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>217. Contains Duplicate</title>
+      <link>https://nullptr.ai/blog/217-contains-duplicate/</link>
+      <pubDate>Mon, 23 Jan 2023 20:59:00 +0000</pubDate>
+      <guid>https://nullptr.ai/blog/217-contains-duplicate/</guid>
+      <description>The Problem Statement This problem is taken from LeetCode.&#xA;First Solution: std::unordered_set In order to avoid quadratic time complexity resulting from comparing each pair of numbers, we can use a std::unordered_set&amp;lt;int&amp;gt;. We iterate once through all elements and check if the element in already in our set.</description>
+    </item>
+  </channel>
+</rss>

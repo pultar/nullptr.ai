@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nullptr.ai/3-longest-substring-without-repeating-characters/</loc>
+    <loc>https://nullptr.ai/blog/3-longest-substring-without-repeating-characters/</loc>
     <lastmod>2023-01-30T12:00:00Z</lastmod>
   </url>
   <url>
@@ -10,6 +10,10 @@
   </url>
   <url>
     <loc>https://nullptr.ai/tags/array/</loc>
+    <lastmod>2023-01-30T12:00:00Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nullptr.ai/blog/</loc>
     <lastmod>2023-01-30T12:00:00Z</lastmod>
   </url>
   <url>
@@ -33,10 +37,6 @@
     <lastmod>2023-01-30T12:00:00Z</lastmod>
   </url>
   <url>
-    <loc>https://nullptr.ai/posts/</loc>
-    <lastmod>2023-01-30T12:00:00Z</lastmod>
-  </url>
-  <url>
     <loc>https://nullptr.ai/tags/sliding-window/</loc>
     <lastmod>2023-01-30T12:00:00Z</lastmod>
   </url>
@@ -49,11 +49,11 @@
     <lastmod>2023-01-30T12:00:00Z</lastmod>
   </url>
   <url>
-    <loc>https://nullptr.ai/542-01-matrix/</loc>
+    <loc>https://nullptr.ai/blog/542-01-matrix/</loc>
     <lastmod>2023-01-25T11:00:00Z</lastmod>
   </url>
   <url>
-    <loc>https://nullptr.ai/57-insert-interval/</loc>
+    <loc>https://nullptr.ai/blog/57-insert-interval/</loc>
     <lastmod>2023-01-25T11:00:00Z</lastmod>
   </url>
   <url>
@@ -69,11 +69,11 @@
     <lastmod>2023-01-25T11:00:00Z</lastmod>
   </url>
   <url>
-    <loc>https://nullptr.ai/53-maximum-subarray/</loc>
+    <loc>https://nullptr.ai/blog/53-maximum-subarray/</loc>
     <lastmod>2023-01-24T13:00:00Z</lastmod>
   </url>
   <url>
-    <loc>https://nullptr.ai/217-contains-duplicate/</loc>
+    <loc>https://nullptr.ai/blog/217-contains-duplicate/</loc>
     <lastmod>2023-01-20T21:59:00Z</lastmod>
   </url>
   <url>
@@ -81,7 +81,7 @@
     <lastmod>2023-01-20T21:59:00Z</lastmod>
   </url>
   <url>
-    <loc>https://nullptr.ai/104-maximum-depth-of-binary-tree/</loc>
+    <loc>https://nullptr.ai/blog/104-maximum-depth-of-binary-tree/</loc>
     <lastmod>2023-01-23T13:00:00Z</lastmod>
   </url>
   <url>
@@ -93,7 +93,7 @@
     <lastmod>2023-01-23T13:00:00Z</lastmod>
   </url>
   <url>
-    <loc>https://nullptr.ai/876-middle-of-the-linked-list/</loc>
+    <loc>https://nullptr.ai/blog/876-middle-of-the-linked-list/</loc>
     <lastmod>2023-01-23T12:00:00Z</lastmod>
   </url>
   <url>
@@ -109,7 +109,7 @@
     <lastmod>2023-01-23T10:00:00Z</lastmod>
   </url>
   <url>
-    <loc>https://nullptr.ai/evaluating-square-roots/</loc>
+    <loc>https://nullptr.ai/blog/evaluating-square-roots/</loc>
     <lastmod>2023-01-23T10:00:00Z</lastmod>
   </url>
   <url>
@@ -121,7 +121,7 @@
     <lastmod>2023-01-23T10:00:00Z</lastmod>
   </url>
   <url>
-    <loc>https://nullptr.ai/543-diameter-of-binary-tree/</loc>
+    <loc>https://nullptr.ai/blog/543-diameter-of-binary-tree/</loc>
     <lastmod>2023-01-23T09:00:00Z</lastmod>
   </url>
   <url>

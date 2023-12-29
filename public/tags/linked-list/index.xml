@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linked list on nullptr.ai</title>
+    <link>https://nullptr.ai/tags/linked-list/</link>
+    <description>Recent content in linked list on nullptr.ai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Jan 2023 12:00:00 +0000</lastBuildDate>
+    <atom:link href="https://nullptr.ai/tags/linked-list/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>876. Middle of the Linked List</title>
+      <link>https://nullptr.ai/blog/876-middle-of-the-linked-list/</link>
+      <pubDate>Mon, 23 Jan 2023 12:00:00 +0000</pubDate>
+      <guid>https://nullptr.ai/blog/876-middle-of-the-linked-list/</guid>
+      <description>The Problem Statement The problem is taken from LeetCode.&#xA;First Solution: Naïve Copy to std::vector The underlying problem here is that linked lists don&#39;t have random access. If the data structure we operate on were a std::vector or std::array, we could simply calculate the middle via the size of the container.</description>
+    </item>
+  </channel>
+</rss>
