@@ -92,7 +92,6 @@ summary = "w_auto,dpr_auto,c_scale,f_auto,q_auto/"
 home = ["HTML", "ATOM"]
 section = ["HTML"]
 taxonomy = ["HTML"]
-taxonomyTerm = ["HTML"]
 
 [outputFormats]
 [outputFormats.ATOM]
