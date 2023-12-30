@@ -23,8 +23,8 @@ There is the solution of manually adding [every conda environment as a Jupyter k
 ```bash
 mamba activate base
 mamba install nb_conda_kernels
-mamba create -n mylab_py311
-mamba install -n mylab_py311 python=3.11 ipykernel
+mamba create -n lab_py311
+mamba install -n lab_py311 python=3.11 ipykernel
 jupyter lab
 ```
 
@@ -43,6 +43,11 @@ nohup jupyter lab --no-browser >> start-jupyter-server.out 2>&1 &
 
 I typically request no browser window be opened and *stderr* be redirected to *stdout*. As long as my computer is running, I can go to [http://localhost:8888/lab](http://localhost:8888/lab) and work on a project or run a scratch notebook without the worry of accidentally closing a terminal window too much (<kbd><kbd>Cmd</kbd>+<kbd>Q</kbd></kbd>). Whenever I work on a new project, I simply create a new subfolder within lab. Finally, I added this script to my [Login Items](https://support.apple.com/en-gb/guide/mac-help/mh15189/), so I never forget to run it after a reboot. I found that I had to change the default application for shell scripts to be `iTerm` or `Terminal`, otherwise `Xcode` would open upon login with an instance of the script instead.
 
+{{< figure src="image/posts/login-items.png" width="70%" imgclass="mb-2 mx-auto leading-none shadow-none" >}}
+
 ## Conclusion
 
-Following these steps, I can always spin up a new Jupyter notebook with an existing or new `conda` environment - it's that simple. I have another trick that extends this set-up in order to access an always running *remote* Jupyter instance, e.g. the one on my GPU workstation. I will share some details in a future post.
+Following these steps, I can always spin up a new Jupyter notebook with an existing or new `conda` environment - it's that simple. `mojo` and `julia` are also installed on my system. I have another trick that extends this set-up in order to access an always running *remote* Jupyter instance, e.g. the one on my GPU workstation. I will share some details in a future post.
+
+{{< figure src="image/posts/jupyterlab.png" width="100%" imgclass="mb-2 mx-auto leading-none shadow-none" >}}
+
